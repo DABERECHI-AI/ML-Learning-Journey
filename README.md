@@ -1,3 +1,5 @@
+![Banner]((https://github.com/DABERECHI-AI/ML-Learning-Journey/blob/main/ChatGPT%20Image%20Aug%209,%202025,%2005_05_05%20PM.png?raw=true))
+
  ML-Learning-Journey 📚🚀
 My 6-month Machine Learning journey from scratch to real world ML projects.
 
